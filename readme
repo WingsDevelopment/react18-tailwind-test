@@ -1,0 +1,5 @@
+install dependencies for the project
+yarn
+
+start project
+yarn run dev
